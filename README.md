@@ -1,2 +1,3 @@
 # mainu
 This is my first Git Hub repository.
+Author - Mainu Shaik
